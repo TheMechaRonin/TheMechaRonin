@@ -77,8 +77,8 @@
 A robot I designed from scratch: a compact 4-wheel body with an **LED screen face** that shows animated eyes and a smile. The upper body hinges open for easy access, and the screen is held with locks.
 
 <div align="center">
-  <img src="assets/kookie-iso.png" width="48%" alt="Kookie v1 isometric view" />
-  <img src="assets/kookie-exploded.png" width="48%" alt="Kookie v1 exploded assembly" />
+  <img src="kookie-iso.png" width="48%" alt="Kookie v1 isometric view" />
+  <img src="kookie-exploded.png" width="48%" alt="Kookie v1 exploded assembly" />
 </div>
 
 | Part | Qty | Part | Qty |
@@ -97,8 +97,8 @@ A robot I designed from scratch: a compact 4-wheel body with an **LED screen fac
 Designed valve bodies and full assemblies in SolidWorks: **reducing check valve, feed check valve, screw-down valve** and more. Gray cast iron body, flange-based pipeline design, full section drawings with BOM.
 
 <div align="center">
-  <img src="assets/valve-body.png" width="48%" alt="Valve body drawing" />
-  <img src="assets/valve-body-section.png" width="48%" alt="Valve body section view" />
+  <img src="valve-body.png" width="48%" alt="Valve body drawing" />
+  <img src="valve-body-section.png" width="48%" alt="Valve body section view" />
 </div>
 
 ---
@@ -121,9 +121,9 @@ A robot concept that goes **inside pipes** and finds out where the defects are, 
 ### 📐 More CAD Work
 
 <div align="center">
-  <img src="assets/y-pipe-manifold.png" width="32%" alt="Y pipe manifold" />
-  <img src="assets/sheet-metal-bin.png" width="32%" alt="Sheet metal bin" />
-  <img src="assets/shaft-drawing.png" width="32%" alt="Shaft drawing" />
+  <img src="y-pipe-manifold.png" width="32%" alt="Y pipe manifold" />
+  <img src="sheet-metal-bin.png" width="32%" alt="Sheet metal bin" />
+  <img src="shaft-drawing.png" width="32%" alt="Shaft drawing" />
 </div>
 
 > ⚙️ Gear machines, big assemblies, sheet-metal parts, shafts and more. 🚀 **More projects coming soon...**
@@ -160,3 +160,4 @@ My own engineering venture, focused on **mechanical design, robotics and automat
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=E10600&center=true&vCenter=true&width=500&height=30&lines=%22Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Automate%22" alt="Tagline" />
 
 </div>
+  
