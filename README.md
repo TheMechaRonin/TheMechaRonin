@@ -47,6 +47,26 @@
 - 🎬 Also do **video and photo editing**
 
 ---
+## 🛠️ Tech Stack
+
+### CAD / Design
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E10600?style=for-the-badge&logo=solidworks&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-B00000?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-1a1a1a?style=for-the-badge&logo=autodesk&logoColor=E10600)
+![Solid Edge](https://img.shields.io/badge/Solid_Edge-E10600?style=for-the-badge&logoColor=white)
+
+### Electronics & Coding
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=E10600)
+![Python](https://img.shields.io/badge/Python-B00000?style=for-the-badge&logo=python&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-E10600?style=for-the-badge&logoColor=white)
+
+### Fabrication & Creative
+![Welding](https://img.shields.io/badge/Welding-1a1a1a?style=for-the-badge&logoColor=E10600)
+![Lathe](https://img.shields.io/badge/Lathe_%26_Grinding-E10600?style=for-the-badge&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video_Editing-B00000?style=for-the-badge&logoColor=white)
+![Photo Editing](https://img.shields.io/badge/Photo_Editing-1a1a1a?style=for-the-badge&logoColor=E10600)
+![MS Office](https://img.shields.io/badge/MS_Office-E10600?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 
 ---
@@ -211,26 +231,6 @@ Took part in a robot fight competition and finished **runner-up (2nd place)**.
 
 <div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
-## 🛠️ Tech Stack
-
-### CAD / Design
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E10600?style=for-the-badge&logo=solidworks&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-B00000?style=for-the-badge&logo=autodesk&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-1a1a1a?style=for-the-badge&logo=autodesk&logoColor=E10600)
-![Solid Edge](https://img.shields.io/badge/Solid_Edge-E10600?style=for-the-badge&logoColor=white)
-
-### Electronics & Coding
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=E10600)
-![Python](https://img.shields.io/badge/Python-B00000?style=for-the-badge&logo=python&logoColor=white)
-![PCB Design](https://img.shields.io/badge/PCB_Design-E10600?style=for-the-badge&logoColor=white)
-
-### Fabrication & Creative
-![Welding](https://img.shields.io/badge/Welding-1a1a1a?style=for-the-badge&logoColor=E10600)
-![Lathe](https://img.shields.io/badge/Lathe_%26_Grinding-E10600?style=for-the-badge&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video_Editing-B00000?style=for-the-badge&logoColor=white)
-![Photo Editing](https://img.shields.io/badge/Photo_Editing-1a1a1a?style=for-the-badge&logoColor=E10600)
-![MS Office](https://img.shields.io/badge/MS_Office-E10600?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 <div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
