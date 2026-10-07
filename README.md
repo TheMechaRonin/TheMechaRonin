@@ -48,25 +48,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### CAD / Design
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E10600?style=for-the-badge&logo=solidworks&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-B00000?style=for-the-badge&logo=autodesk&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-1a1a1a?style=for-the-badge&logo=autodesk&logoColor=E10600)
-![Solid Edge](https://img.shields.io/badge/Solid_Edge-E10600?style=for-the-badge&logoColor=white)
-
-### Electronics & Coding
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=E10600)
-![Python](https://img.shields.io/badge/Python-B00000?style=for-the-badge&logo=python&logoColor=white)
-![PCB Design](https://img.shields.io/badge/PCB_Design-E10600?style=for-the-badge&logoColor=white)
-
-### Fabrication & Other
-![Welding](https://img.shields.io/badge/Welding-1a1a1a?style=for-the-badge&logoColor=E10600)
-![Lathe](https://img.shields.io/badge/Lathe_%26_Grinding-E10600?style=for-the-badge&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video_%26_Photo_Editing-B00000?style=for-the-badge&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS_Office-1a1a1a?style=for-the-badge&logo=microsoftoffice&logoColor=E10600)
 
 ---
 
