@@ -160,42 +160,6 @@ My own engineering venture, focused on **mechanical design, robotics and automat
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=E10600&center=true&vCenter=true&width=500&height=30&lines=%22Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Automate%22" alt="Tagline" />
 
 </div>
-<div align="center">
-
-<img src="banner.svg" alt="Dhiren Dhall — The Mecha Ronin" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=FF3B3B&center=true&vCenter=true&width=760&height=40&lines=@TheMechaRonin;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Automate;Turning+Ideas+into+Machines;%F0%9F%8E%AC+Video+%26+Photo+Editing+%7C+%F0%9F%93%90+CAD+Design+%E2%80%94+Hire+Me;%F0%9F%93%9E+8866079191;%E2%9C%89%EF%B8%8F+dhirendhall919@gmail.com" alt="Username, tagline and contact" />
-
-<br/>
-
-![Mechatronics](https://img.shields.io/badge/Mechatronics-E10600?style=for-the-badge&logo=arduino&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-1a1a1a?style=for-the-badge&logo=raspberrypi&logoColor=E10600)
-![CAD/CAM](https://img.shields.io/badge/CAD%2FCAM-E10600?style=for-the-badge&logo=solidworks&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video_Editing-1a1a1a?style=for-the-badge&logoColor=E10600)
-![Parul University](https://img.shields.io/badge/Parul_University-E10600?style=for-the-badge&logoColor=white)
-![Vadodara](https://img.shields.io/badge/Vadodara%2C_Gujarat-1a1a1a?style=for-the-badge&logoColor=white)
-
-<img src="divider.svg" width="100%" alt="" />
-
-</div>
-
-## 🥷 whoami
-
-```json
-{
-  "name": "Dhiren Dhall",
-  "alias": "The Mecha Ronin",
-  "role": "Mechatronics Student | CAD/CAM Designer | Robotics Builder | Video Editor",
-  "education": "Diploma in Mechatronics, 1st Year — Parul University",
-  "company": "Founder, MechaFusion Technologies",
-  "location": "Vadodara, Gujarat, India",
-  "achievement": "🥈 2nd Place — Robo Fight",
-  "tagline": "Code • Design • Build • Automate",
-  "status": "Open for CAD design & video editing work"
-}
-```
-
-<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 💼 Services — Work With Me
 
@@ -244,17 +208,6 @@ My own engineering venture, focused on **mechanical design, robotics and automat
 </div>
 
 <div align="center"><img src="divider.svg" width="100%" alt="" /></div>
-
-## ⚙️ About Me
-
-- 🎓 Diploma **Mechatronics** student (1st year) at **Parul University**, Vadodara
-- 🏢 Founder of **MechaFusion Technologies** *(website coming soon)*
-- 📐 Designing in **SolidWorks, AutoCAD, Fusion 360 and Solid Edge** — from single parts to big assemblies
-- 🤖 Building Arduino robots: line following, obstacle avoiding, Bluetooth-controlled cars
-- 🥈 Finished **2nd** in a **Robo Fight** competition
-- 🔧 Hands-on workshop skills: welding (Arc / MIG / TIG), lathe, grinding, basic milling
-- 🧠 Code is written with **AI assistance** while I keep learning Arduino C++ and Python
-- 🎬 I also do **video and photo editing**
 
 <div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
