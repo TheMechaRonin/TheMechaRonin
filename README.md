@@ -2,7 +2,7 @@
 
 <img src="banner.svg" alt="Dhiren Dhall — The Mecha Ronin" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=FF3B3B&center=true&vCenter=true&width=760&height=40&lines=@TheMechaRonin;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Automate;Turning+Ideas+into+Machines;%F0%9F%8E%AC+Video+%26+Photo+Editing+%7C+%F0%9F%93%90+CAD+Design+%E2%80%94+Hire+Me;%F0%9F%93%9E+8866079191;%E2%9C%89%EF%B8%8F+dhirendhall919@gmail.com" alt="Username, tagline and contact" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=FF3B3B&center=true&vCenter=true&width=760&height=40&lines=@TheMechaRonin;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Automate;Turning+Ideas+into+Machines;%F0%9F%8E%AC+Video+%26+Photo+Editing+%7C+%F0%9F%93%90+CAD+Design+%E2%80%94+Hire+Me;%F0%9F%93%9E+;%E2%9C%89%EF%B8%8F+dhirendhall919@gmail.com" alt="Username, tagline and contact" />
 
 <br/>
 
@@ -83,9 +83,9 @@
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918866079191)
+
 [![Email](https://img.shields.io/badge/Email_Me-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirendhall919@gmail.com)
-[![Call](https://img.shields.io/badge/Call_8866079191-1a1a1a?style=for-the-badge&logo=phone&logoColor=E10600)](tel:+918866079191)
+
 
 </div>
 
@@ -256,7 +256,7 @@ A robot concept that travels inside a pipe and locates where the defects are, mi
 
 **Want a video edited, a part designed or a robot built? Message me.**
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918866079191)
+
 [![Email](https://img.shields.io/badge/Email-dhirendhall919@gmail.com-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirendhall919@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-TheMechaRonin-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheMechaRonin)
 
