@@ -16,7 +16,9 @@
 <img src="divider.svg" width="100%" alt="" />
 
 </div>
-
+<a href="https://themecharonin.github.io/TheMechaRonin/">
+  <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20WEBSITE-FF1A1A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Website">
+</a>
 ## 🥷 whoami
 
 ```json
