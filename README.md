@@ -21,6 +21,32 @@
                                             <a href="https://themecharonin.github.io/TheMechaRonin/">
   <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20WEBSITE-FF1A1A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Website">
 </a>
+<a href="https://themecharonin.github.io/MECHAFUSION-TECHNOLOGIES/"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="visit-button">
+   VISIT MY SITE
+</a>
+
+<style>
+.visit-button {
+    display: inline-block;
+    padding: 14px 28px;
+    background: #111827;
+    color: #ffffff;
+    text-decoration: none;
+    border: 2px solid #00d4ff;
+    border-radius: 8px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    transition: 0.3s;
+}
+
+.visit-button:hover {
+    background: #00d4ff;
+    color: #111827;
+}
+</style>
 
 
 
