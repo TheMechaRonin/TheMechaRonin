@@ -257,7 +257,7 @@ A robot concept that travels inside a pipe and locates where the defects are, mi
 **Want a video edited, a part designed or a robot built? Message me.**
 
 
-[![Email](https://img.shields.io/badge/Email-mechafusiontech.info@gmail.com-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirendhall919@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mechafusiontech.info@gmail.com-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mechafusiontech.info@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-TheMechaRonin-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheMechaRonin)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheMechaRonin&label=PROFILE+VIEWS&color=E10600&style=for-the-badge)
