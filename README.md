@@ -22,13 +22,6 @@
   <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20WEBSITE-FF1A1A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Website">
 </a>
 
-<p align="center">
-  <a href="https://themecharonin.github.io/MECHAFUSION-TECHNOLOGIES/">
-    <img src="https://img.shields.io/badge/🌐_VISIT_MY_WEBSITE-FF2020?style=for-the-badge&logoColor=white" alt="Visit My Website">
-  </a>
-</p>
-
-
 
 ## 🥷 whoami
 
